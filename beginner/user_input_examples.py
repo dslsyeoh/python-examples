@@ -1,0 +1,10 @@
+name = input("Enter name: ")
+number = int(input("Enter a number: "))
+price = float(input("Enter price: "))
+x = float(input("Enter first value: "))
+y = float(input("Enter second value: "))
+
+print(f"\nName: {name}")
+print(f"Number: {number}")
+print(f"Price: {price}")
+print(f"{x} + {y} = {x + y}")
